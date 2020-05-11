@@ -1,0 +1,13 @@
+theme: jekyll-theme-console
+
+baseurl: /student245
+
+header_pages:
+  - index.md
+  - PROPOSAL.md
+  - SPECIFICATIONS.md
+
+style: dark
+listen_for_clients_preferred_style: true
+
+footer: 'CPTR 142 from <a href="https://wallawalla.edu">Walla Walla University</a>'
